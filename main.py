@@ -256,7 +256,7 @@ async def summoner(ctx, t1, t2):
     await ctx.send(embed=embedFile)
 
 
-@bot.command(name='yellcat', help='Bağırın kediye')
+@bot.command(name='yellcat', help='Kediye bağırma')
 async def kedi_meme(ctx, t1, t2):
     yazi1 = ''
     yazi2 = ''
