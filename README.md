@@ -8,7 +8,7 @@
 - Up-to-date info about multiple crypto coins.
 - Easy to use meme making commands.
 
-##Images
+## Images
 
 ![](https://i.hizliresim.com/agPRgz.png)
 
